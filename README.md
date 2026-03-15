@@ -3,3 +3,11 @@ basically this is the source code, but its locked with a password so im gonna gi
 it has 19 digits, 3 Upercase Letters, 12 Lowercase Letters, 1 Simbol and it starts with "SmokeyTheA"
 thats it good luck.
 that source code is licensed with a MIT license so put some credits for me too!
+
+
+
+
+
+
+
+The simbol is @
